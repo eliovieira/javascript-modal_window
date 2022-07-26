@@ -33,8 +33,3 @@ document.addEventListener('keydown', function (event) {
   }
 });
 
-/*
-btnsShowModal.addEventListener('click', function () {
-  console.log('cliqueeeeee');
-});
-*/
